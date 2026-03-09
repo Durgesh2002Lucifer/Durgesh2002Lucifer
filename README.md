@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.Js, Spring**
 
-- 👨‍💻 All of my projects are available at [(https://durgesh2002lucifer.github.io/Portfolio/)]((https://durgesh2002lucifer.github.io/Portfolio/))
+- 👨‍💻 All of my projects are available at [(https://durgesh2002lucifer.github.io/Portfolio/)](https://durgesh2002lucifer.github.io/Portfolio/)
 
 - 📫 How to reach me **durgesh2002shukla@gmail.com**
 
